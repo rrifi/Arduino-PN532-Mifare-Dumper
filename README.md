@@ -1,5 +1,5 @@
 # Arduino-PN532-Mifare-Dumper
-This code allows you to dump Mifare 1k and Mifare Ultralight tags.
+This code allows you to dump Mifare Classic 1k and Mifare Ultralight tags.
 
 
 For use this you will need Elehouse PN532 and PN532_I2C libraries 
