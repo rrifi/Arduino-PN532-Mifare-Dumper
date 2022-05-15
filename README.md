@@ -19,6 +19,11 @@ Dot not forget to put your PN532 on I2C mode :
 
 Here is schema you should make :
 
+Connect SDA pin to SDA pin
+Connect SCL pin to SCL pin
+Connect VCC to 5V
+Connect Ground to Grounc
+
 ![alt text](https://github.com/rrifi/Arduino-PN532-Mifare-Dumper/blob/main/pn532_i2c_scheme.PNG)
 
 Dont forget to open the serial console on 115200 baud
