@@ -9,8 +9,10 @@ OR you can download it direcly through Arduino IDE by clicking : Sketch > Includ
 
 Dot not forget to put your PN532 on I2C mode :
 
+![alt text](https://github.com/rrifi/Arduino-PN532-Mifare-Dumper/blob/main/IC2_mode.PNG)
 
 Here is schema you should make :
 
+![alt text](https://github.com/rrifi/Arduino-PN532-Mifare-Dumper/blob/main/pn532_i2c_scheme.PNG)
 
 Dont forget to open the serial console on 115200 baud
