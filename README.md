@@ -19,10 +19,10 @@ Dot not forget to put your PN532 on I2C mode :
 
 Here is schema you should make :
 
-Connect SDA pin to SDA pin
-Connect SCL pin to SCL pin
-Connect VCC to 5V
-Connect Ground to Grounc
+Connect SDA pin to SDA pin <br>
+Connect SCL pin to SCL pin <br>
+Connect VCC to 5V <br>
+Connect Ground to Ground <br>
 
 ![alt text](https://github.com/rrifi/Arduino-PN532-Mifare-Dumper/blob/main/pn532_i2c_scheme.PNG)
 
