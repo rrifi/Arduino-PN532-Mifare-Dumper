@@ -10,8 +10,8 @@ USAGE :
 
 For use this you will need the Elechouse's PN532 and PN532_I2C libraries 
 
-They can be downloaded here -> https://github.com/elechouse/PN532
-OR you can download it direcly through Arduino IDE by clicking : Sketch > Include Library > Manage Libraries > Search "PN532" and you will find them both.
+They can be downloaded here -> https://github.com/elechouse/PN532 <br>
+OR you can  also download it direcly through Arduino IDE by clicking : Sketch > Include Library > Manage Libraries > Search "PN532" and you will find them both.
 
 Dot not forget to put your PN532 on I2C mode :
 
