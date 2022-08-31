@@ -1,4 +1,4 @@
-# Arduino-PN532-Mifare-Dumper
+# PN532-Mifare-Classic-Dumper
 This code allows you to dump Mifare Classic 1k and Mifare Ultralight tags, using PN532 module and Arduino Uno (or equivalent)
 
 Demo : https://i.imgur.com/IYuxYaA.mp4
